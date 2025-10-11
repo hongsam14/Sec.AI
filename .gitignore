@@ -317,3 +317,6 @@ __pycache__/
 
 # Streamlit
 /InteractAPI/**/.streamlit/secrets.toml
+
+# kokoro dependencies
+/InteractAPI/**/dependencies/*
